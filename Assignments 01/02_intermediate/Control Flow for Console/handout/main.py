@@ -1,6 +1,6 @@
 import random
 
-def high_low_game():
+def main():
     print("Welcome to the High-Low Game!")
     print("--------------------------------")
 
@@ -26,4 +26,4 @@ def high_low_game():
     print("\nThanks for playing!")
 
 if __name__ == "__main__":
-    high_low_game()
+    main()
