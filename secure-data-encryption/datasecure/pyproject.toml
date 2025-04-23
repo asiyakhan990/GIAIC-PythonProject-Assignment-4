@@ -1,7 +1,0 @@
-[project]
-name = "datasecure"
-version = "0.1.0"
-description = "Add your description here"
-readme = "README.md"
-python = ">=3.8,<3.13"
-dependencies = []
